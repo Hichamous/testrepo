@@ -1,0 +1,7 @@
+rpa : robot
+python
+sql
+language r
+oddo
+tensorflow
+cloud
